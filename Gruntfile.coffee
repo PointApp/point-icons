@@ -9,6 +9,8 @@ module.exports = (grunt) ->
         open:
             main:
                 path : 'compiled/all/pnt-icons.html'
+            folder:
+                path : 'src/svg/'
 
         webfont:
             chrome:
