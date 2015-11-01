@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'point';
-  src: url('../font/point.eot?18728444');
-  src: url('../font/point.eot?18728444#iefix') format('embedded-opentype'),
-       url('../font/point.woff?18728444') format('woff'),
-       url('../font/point.ttf?18728444') format('truetype'),
-       url('../font/point.svg?18728444#point') format('svg');
+  src: url('../font/point.eot?22771940');
+  src: url('../font/point.eot?22771940#iefix') format('embedded-opentype'),
+       url('../font/point.woff?22771940') format('woff'),
+       url('../font/point.ttf?22771940') format('truetype'),
+       url('../font/point.svg?22771940#point') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'point';
-    src: url('../font/point.svg?18728444#point') format('svg');
+    src: url('../font/point.svg?22771940#point') format('svg');
   }
 }
 */
@@ -78,8 +78,8 @@
 .icon-facebook_1x:before { content: '\e815'; } /* '' */
 .icon-facebook_fill:before { content: '\e816'; } /* '' */
 .icon-facebook:before { content: '\e817'; } /* '' */
-.icon-gmail_1x:before { content: '\e818'; } /* '' */
-.icon-gmail:before { content: '\e819'; } /* '' */
+.icon-gmail:before { content: '\e818'; } /* '' */
+.icon-gmail_1x:before { content: '\e819'; } /* '' */
 .icon-home_1x:before { content: '\e81a'; } /* '' */
 .icon-home_fill:before { content: '\e81b'; } /* '' */
 .icon-home:before { content: '\e81c'; } /* '' */
@@ -113,6 +113,7 @@
 .icon-x_1x:before { content: '\e838'; } /* '' */
 .icon-x:before { content: '\e839'; } /* '' */
 .icon-firefox:before { content: '\e83a'; } /* '' */
+.icon-gmail-1:before { content: '\e83b'; } /* '' */
 .icon-laptop:before { content: '\e83d'; } /* '' */
 .icon-mobile:before { content: '\e83e'; } /* '' */
 .icon-apple:before { content: '\e83f'; } /* '' */

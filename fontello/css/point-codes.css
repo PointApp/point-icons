@@ -23,8 +23,8 @@
 .icon-facebook_1x:before { content: '\e815'; } /* '' */
 .icon-facebook_fill:before { content: '\e816'; } /* '' */
 .icon-facebook:before { content: '\e817'; } /* '' */
-.icon-gmail_1x:before { content: '\e818'; } /* '' */
-.icon-gmail:before { content: '\e819'; } /* '' */
+.icon-gmail:before { content: '\e818'; } /* '' */
+.icon-gmail_1x:before { content: '\e819'; } /* '' */
 .icon-home_1x:before { content: '\e81a'; } /* '' */
 .icon-home_fill:before { content: '\e81b'; } /* '' */
 .icon-home:before { content: '\e81c'; } /* '' */
@@ -58,6 +58,7 @@
 .icon-x_1x:before { content: '\e838'; } /* '' */
 .icon-x:before { content: '\e839'; } /* '' */
 .icon-firefox:before { content: '\e83a'; } /* '' */
+.icon-gmail-1:before { content: '\e83b'; } /* '' */
 .icon-laptop:before { content: '\e83d'; } /* '' */
 .icon-mobile:before { content: '\e83e'; } /* '' */
 .icon-apple:before { content: '\e83f'; } /* '' */
